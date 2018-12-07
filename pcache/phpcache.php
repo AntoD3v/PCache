@@ -1,5 +1,13 @@
 <?php 
 
+/*
+
+PCache crée par AntoZzz
+Website: antozzz.fr
+Twitter: @AntoZzzOfficial
+
+*/
+
 class PCache {
 
 	private $folder = "cachehere/";
